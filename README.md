@@ -1,0 +1,1 @@
+ The design team of the company has researched and created a new landing page that has a new outline & more relevant content shown compared to the old page. In order to test the effectiveness of the new landing page in gathering new subscribers,We conducted an experiment by randomly selecting 100 users and dividing them equally into two groups; control group and treatment group
